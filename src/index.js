@@ -1,8 +1,6 @@
 import "./styles.css";
 import "./bryan.css"
-import { greeting } from "./greeting.js";
-import odinImage from "./odin.png";
-import arooo from "./odin2.png";
+
 
 console.log(greeting);
 
