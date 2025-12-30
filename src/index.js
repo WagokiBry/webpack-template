@@ -1,10 +1,6 @@
 import "./styles.css";
-import "./bryan.css"
+import "./bryan.css";
 
 
-console.log(greeting);
 
-console.log("wuuuiiii")
-
-
-   
+console.log("wuuuiiii");
