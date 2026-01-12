@@ -1,3 +1,4 @@
+
 *,
 *::before,
 *::after {
@@ -82,7 +83,7 @@ body {
 
 h1 {
   font-size: 3.2rem;
-  font-family: 'Alfa Slab One';
+  font-family: "Alfa Slab One";
 }
 
 h2 {
@@ -93,8 +94,7 @@ p {
   font-size: 1.4rem;
   line-height: 1.6;
   word-spacing: 0.6rem;
-  font-style:italic;
-
+  font-style: italic;
 }
 
 h1 {
